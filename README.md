@@ -6,7 +6,6 @@ A modern and visually appealing Counter Application built with **React** using t
 
 
 
-
 ## ✨ Features
 
 - ⚛️ Built with React Functional Components
